@@ -10,15 +10,19 @@ pip install spotipy
 **1. Create a Spotify Developer Account:**
 Go to the Spotify Developer Dashboard.
 Sign in with your Spotify account or create one if you don’t have it.
+
 **2. Create a New Application:**
 Click on "Create an App."
 Fill in the application name and description. You can use something descriptive like "Playlist Recommendation System."
 Accept the terms and conditions and click "Create."
+
 **3. Get Your API Credentials:**
 After creating the app, you will see the Client ID and Client Secret on the app details page.
 Copy these credentials and keep them secure. You will need them for your code.
+
 **4. Set Up Redirect URI:**
 In the app settings, find the "Edit Settings" button.
 Add a Redirect URI, which is the URL where Spotify will redirect after authentication. For local development, you can use http://localhost:3000/callback.
 Save the changes.
+
 **5. Set Environment Variables:**
