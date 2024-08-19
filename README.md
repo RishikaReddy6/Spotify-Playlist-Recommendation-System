@@ -26,3 +26,4 @@ Add a Redirect URI, which is the URL where Spotify will redirect after authentic
 Save the changes.
 
 **5. Set Environment Variables:**
+Replace my credentials with your Client ID and Secret
