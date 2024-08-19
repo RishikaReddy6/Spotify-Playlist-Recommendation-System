@@ -8,7 +8,7 @@ pip install spotipy
 # Spotify API setup:
 
 **1. Create a Spotify Developer Account:**
-Go to the Spotify Developer Dashboard.
+Go to the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard).
 Sign in with your Spotify account or create one if you don’t have it.
 
 **2. Create a New Application:**
